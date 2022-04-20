@@ -1,0 +1,171 @@
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe.config
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\bin\Debug\FCEATCC.pdb
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\bin\Debug\MySql.Data.dll
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\bin\Debug\MySql.Data.xml
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.ResolveComReference.cache
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmcarrera.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbloque.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreports.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmadmin.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FrmAdmin2.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbienvenido.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmenu.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmessage.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmestado.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgeneracion.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgrupo.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmmaquina.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmres.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservacionus.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservarm.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmresmaestros.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmususis.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmturno.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmusuario.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.IMPORTANTE.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Properties.Resources.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FRMADMINISTRADOR.resources
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.GenerateResource.Cache
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.exe
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.pdb
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csprojResolveAssemblyReference.cache
+C:\Users\cecy\Documents\Visual Studio 2017\Projects\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frminicio.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe.config
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.ResolveComReference.cache
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.exe
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.pdb
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.pdb
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\bin\Debug\MySql.Data.xml
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmcarrera.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbloque.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreports.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmadmin.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FrmAdmin2.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbienvenido.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmenu.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmessage.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmestado.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgeneracion.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgrupo.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frminicio.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmmaquina.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmres.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservacionus.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservarm.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmresmaestros.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmususis.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmturno.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmusuario.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.IMPORTANTE.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Properties.Resources.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FRMADMINISTRADOR.resources
+C:\Users\Carlos Iribe\Documents\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.GenerateResource.Cache
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe.config
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.pdb
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\bin\Debug\MySql.Data.dll
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\bin\Debug\MySql.Data.xml
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.ResolveComReference.cache
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmcarrera.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbloque.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreports.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmadmin.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FrmAdmin2.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbienvenido.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frmcontraseña.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmenu.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmessage.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmestado.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgeneracion.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgrupo.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frminicio.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmmaquina.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmres.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservacionus.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservarm.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmresmaestros.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmtusuario.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmususis.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmturno.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmusuario.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.IMPORTANTE.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Properties.Resources.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FRMADMINISTRADOR.resources
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.GenerateResource.Cache
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.exe
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.pdb
+C:\Users\cecy\Desktop\sistema-20181017T172356Z-001\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csprojResolveAssemblyReference.cache
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe.config
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\bin\Debug\FCEATCC.pdb
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\bin\Debug\MySql.Data.dll
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\bin\Debug\MySql.Data.xml
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.ResolveComReference.cache
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmcarrera.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbloque.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreports.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmadmin.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FrmAdmin2.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbienvenido.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frmcontraseña.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmenu.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmessage.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmestado.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgeneracion.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgrupo.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frminicio.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmmaquina.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmres.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservacionus.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservarm.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmresmaestros.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmtusuario.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmususis.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmturno.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmusuario.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.IMPORTANTE.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Properties.Resources.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FRMADMINISTRADOR.resources
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.GenerateResource.Cache
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.exe
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.pdb
+C:\Users\cecy\Desktop\sistema\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csprojResolveAssemblyReference.cache
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe.config
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\bin\Debug\FCEATCC.exe
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\bin\Debug\FCEATCC.pdb
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\bin\Debug\MySql.Data.dll
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\bin\Debug\MySql.Data.xml
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csprojResolveAssemblyReference.cache
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.ResolveComReference.cache
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmcarrera.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbloque.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreports.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmadmin.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FrmAdmin2.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmbienvenido.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frmcontraseña.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmenu.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmessage.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmestado.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgeneracion.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmgrupo.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frminicio.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmmaquina.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmres.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservacionus.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.frmreservacionxmaestro.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmreservarm.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmresmaestros.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmtusuario.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmususis.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmturno.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Frmusuario.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.IMPORTANTE.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.Properties.Resources.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.FRMADMINISTRADOR.resources
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.csproj.GenerateResource.Cache
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.exe
+C:\Users\cecy\Desktop\sistema nuevo\FCEATCC\FCEATCC\obj\Debug\FCEATCC.pdb

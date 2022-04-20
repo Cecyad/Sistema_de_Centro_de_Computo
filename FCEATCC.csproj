@@ -1,0 +1,804 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{204B0639-8845-4D74-8982-472EA9EC8B32}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FCEATCC</RootNamespace>
+    <AssemblyName>FCEATCC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frmcarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmcarrera.Designer.cs">
+      <DependentUpon>Frmcarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clsfacultad.cs" />
+    <Compile Include="Clsreservacion.cs" />
+    <Compile Include="Clsusuario.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Frmbloque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmbloque.Designer.cs">
+      <DependentUpon>Frmbloque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreports.Designer.cs">
+      <DependentUpon>Frmreports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmadmin.Designer.cs">
+      <DependentUpon>Frmadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdmin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin2.Designer.cs">
+      <DependentUpon>FrmAdmin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmbienvenido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmbienvenido.Designer.cs">
+      <DependentUpon>Frmbienvenido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmcontraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcontraseña.Designer.cs">
+      <DependentUpon>frmcontraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmenu.Designer.cs">
+      <DependentUpon>Frmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmessage.Designer.cs">
+      <DependentUpon>Frmessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmestado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmestado.Designer.cs">
+      <DependentUpon>Frmestado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmgeneracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmgeneracion.Designer.cs">
+      <DependentUpon>Frmgeneracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmgrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmgrupo.Designer.cs">
+      <DependentUpon>Frmgrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frminicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminicio.Designer.cs">
+      <DependentUpon>frminicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmmaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmmaquina.Designer.cs">
+      <DependentUpon>Frmmaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmres.Designer.cs">
+      <DependentUpon>Frmres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreservacionus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreservacionus.Designer.cs">
+      <DependentUpon>Frmreservacionus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmreservacionxmaestro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmreservacionxmaestro.Designer.cs">
+      <DependentUpon>frmreservacionxmaestro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreservar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreservar.Designer.cs">
+      <DependentUpon>Frmreservar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmresmaestros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmresmaestros.Designer.cs">
+      <DependentUpon>Frmresmaestros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmtusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmtusuario.Designer.cs">
+      <DependentUpon>Frmtusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmususis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmususis.Designer.cs">
+      <DependentUpon>Frmususis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmturno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmturno.Designer.cs">
+      <DependentUpon>Frmturno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmusuario.Designer.cs">
+      <DependentUpon>Frmusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMPORTANTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMPORTANTE.Designer.cs">
+      <DependentUpon>IMPORTANTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FRMADMINISTRADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMADMINISTRADOR.Designer.cs">
+      <DependentUpon>FRMADMINISTRADOR.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Frmcarrera.resx">
+      <DependentUpon>Frmcarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmbloque.resx">
+      <DependentUpon>Frmbloque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreports.resx">
+      <DependentUpon>Frmreports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmadmin.resx">
+      <DependentUpon>Frmadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin2.resx">
+      <DependentUpon>FrmAdmin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmbienvenido.resx">
+      <DependentUpon>Frmbienvenido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcontraseña.resx">
+      <DependentUpon>frmcontraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmenu.resx">
+      <DependentUpon>Frmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmessage.resx">
+      <DependentUpon>Frmessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmestado.resx">
+      <DependentUpon>Frmestado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmgeneracion.resx">
+      <DependentUpon>Frmgeneracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmgrupo.resx">
+      <DependentUpon>Frmgrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminicio.resx">
+      <DependentUpon>frminicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmmaquina.resx">
+      <DependentUpon>Frmmaquina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmres.resx">
+      <DependentUpon>Frmres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreservacionus.resx">
+      <DependentUpon>Frmreservacionus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmreservacionxmaestro.resx">
+      <DependentUpon>frmreservacionxmaestro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreservar.resx">
+      <DependentUpon>Frmreservar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmresmaestros.resx">
+      <DependentUpon>Frmresmaestros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmtusuario.resx">
+      <DependentUpon>Frmtusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmususis.resx">
+      <DependentUpon>Frmususis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmturno.resx">
+      <DependentUpon>Frmturno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmusuario.resx">
+      <DependentUpon>Frmusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMPORTANTE.resx">
+      <DependentUpon>IMPORTANTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="FRMADMINISTRADOR.resx">
+      <DependentUpon>FRMADMINISTRADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salirr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compu2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizarron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizaroon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uno1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuatro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diez.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\once.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trece.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\catorce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quince.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dieciseis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diecisiete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diesiocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diesinueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veinte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veintiuno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veintidos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veintitres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veinticuatro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veinticinco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veinti seis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veintisiete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veintiocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veintinueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treinta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintauno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintaydos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintaytres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintaycuatro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treitaycinco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintayseas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintasiete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintayocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treintaynueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuarenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MENU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MENU2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESERVAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\presentacion2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FCEAT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sistema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menumarco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aacademico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aalumno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maquina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grupo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrador.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MENUU.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MENUI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reservar-hora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESERVARHO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ususis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\status.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mostrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondonu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcomenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tabla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablault.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablapru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondores.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GIF.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TECN.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GIFF.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TECNUEVO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TECN4NUEVO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENTER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manual.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infdia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infdiaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infdiaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infmes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infusu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infcomp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inicio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CONFIG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TUSUARIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TUSUARIO1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carreras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
